@@ -1,0 +1,19 @@
+ls , rm, mkdri, pwd, cd, echo
+cd-change directory
+ls-list
+mkdir-make directory
+
+file, mv, cp, rmdir, ps, kill 9, find, sort, clear
+
+cmp, df, apt-get : install remove update upgrade, chmod
+
+sudo !!, man, cd, jot, cal, tac, w, yes, du, expr, look, espeak
+
+команда yes используется в основнов в связке с командами , которые много раз требуют ввода какого-нибудь ответа . Например , yes | rm *.txt - удалить все txt файлы, не требуя подтверждения. Aналог - rm -f *.txt
+Также yes может использоватся для проверки роботы под нагрузкой так как нагруживает CPU = 100%
+
+factor, reset, mtr, ps aux, alias, tr, tree, uname, lsb_realese, wall, date, uptime, hostname, shutdown, reboot, gedit , wc
+
+grep, zip, unzip, tar
+
+gksu, pstree, top, screenfetch 
